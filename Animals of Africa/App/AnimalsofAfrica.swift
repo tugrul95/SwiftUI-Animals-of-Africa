@@ -1,5 +1,4 @@
 //
-//  Real_AfricaApp.swift
 //
 //  Created by Macbook on 25/12/21.
 //
